@@ -43,7 +43,8 @@ Lawrence
 
 * ./C++
   RT.sln, fichier de la solution du projet qui  permet son fonctionnement
-    ./hg
+
+* ./hg
     *Communication.cpp* -> fichier de déclaration de la classe communication
     *Communication.h* -> fichier d'entête de la classe communication
     *main.cpp* -> fichier principal
